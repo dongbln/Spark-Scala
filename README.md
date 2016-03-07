@@ -1,0 +1,1 @@
+# Spark Scala 1.6.0 with Fatjar deploymeent
